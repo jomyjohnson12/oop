@@ -1,9 +1,9 @@
-import java.io.*;
+import java.util.*;
 public class RemoveStackEle
 {
 public static void main(String args[])
 {
-Stack<Integer>stack = new Stack<integer>();
+Stack<Integer>stack = new Stack<Integer>();
 stack.add(-4);
 stack.add(6);
 stack.add(16);
